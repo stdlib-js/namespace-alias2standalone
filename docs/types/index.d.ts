@@ -26,7 +26,7 @@
 *
 * @example
 * var v = alias2standalone( 'base.sin' );
-* /- returns '@stdlib-math-base-special-sin'
+* // returns '@stdlib/math-base-special-sin'
 */
 declare function alias2standalone( alias: string ): string | null;
 
