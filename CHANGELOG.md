@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-16)
+## Unreleased (2025-03-18)
 
 <section class="features">
 
@@ -48,6 +48,8 @@
 
 <details>
 
+-   [`6aea280`](https://github.com/stdlib-js/stdlib/commit/6aea2800b62d9f97232446808d25e9f10c6ce880) - **docs:** update REPL namespace documentation [(#6138)](https://github.com/stdlib-js/stdlib/pull/6138) _(by stdlib-bot)_
+-   [`3938b26`](https://github.com/stdlib-js/stdlib/commit/3938b265e603116448c89fcaa58df70e79d40f59) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9f41c88`](https://github.com/stdlib-js/stdlib/commit/9f41c88a10ad21da9492845e0389b2512e01f178) - **docs:** update REPL namespace documentation [(#6088)](https://github.com/stdlib-js/stdlib/pull/6088) _(by stdlib-bot)_
 -   [`b82d76a`](https://github.com/stdlib-js/stdlib/commit/b82d76a7c53b7386d2a9db84e217900c16fdfee7) - **docs:** update REPL namespace documentation [(#6059)](https://github.com/stdlib-js/stdlib/pull/6059) _(by stdlib-bot)_
 -   [`e4f76e7`](https://github.com/stdlib-js/stdlib/commit/e4f76e75ff13f723a5e8d483e315e13e76854cff) - **docs:** update REPL namespace documentation [(#6009)](https://github.com/stdlib-js/stdlib/pull/6009) _(by stdlib-bot, Philipp Burckhardt)_
@@ -99,9 +101,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gururaj Gurram
 -   Philipp Burckhardt
 
 </section>
