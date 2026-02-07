@@ -54,7 +54,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-alias2standalone = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-alias2standalone@umd/browser.js' )
+alias2standalone = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-alias2standalone@v0.4.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -66,7 +66,7 @@ var alias2standalone = require( 'path/to/vendor/umd/namespace-alias2standalone/i
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/namespace-alias2standalone@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/namespace-alias2standalone@v0.4.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -123,7 +123,7 @@ var v = alias2standalone( 'unrecognized_alias_beep_boop_bop_bip' );
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/namespace-aliases@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/namespace-alias2standalone@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/namespace-alias2standalone@v0.4.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
